@@ -4,7 +4,6 @@ This project detects and analyzes the cardiac activity of an embryonic medaka fi
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## 📋 Table of Contents
 - [Overview](#overview)
