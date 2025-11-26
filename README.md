@@ -242,8 +242,8 @@ embryo-heart-rate-analysis/
 │
 ├── notebook.ipynb          # Main analysis pipeline
 ├── CannyTuner.py           # Interactive edge detection parameter tuner
+├── .gitignore              # Git ignore file
 ├── README.md               # This file
 └── requirements.txt        # Python dependencies
-└── .gitignore              # Git ignore file
 ```
 
